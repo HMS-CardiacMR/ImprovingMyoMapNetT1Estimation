@@ -1,4 +1,4 @@
-# ImprovingMyoMapNetT1Estimation
+# Improving accuracy of myocardial T1 estimation in MyoMapNet
 
 Please run /DemoCode/MyoMapNet_ImproveT1Estimation
 
@@ -18,3 +18,5 @@ In the phantom study, T1 values measured by LL4 with MyoMapNet were highly corre
 Conclusion
 
 Training MyoMapNet with numerical simulations and phantom data will improve the estimation of myocardial T1 values and increase its robustness to confounders while also reducing the overall T1 mapping estimation time to only 4 heartbeats.
+
+![Fig1_4HBs-02](https://user-images.githubusercontent.com/9512423/206268826-2eb38922-455a-43a5-8319-05791497d952.png)
